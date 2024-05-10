@@ -4,7 +4,7 @@ Final Project for ASTR 5470: Wisdom-Holman N-body Symplectic Integrator
 
 ---
 
-This project simulates the gravitational interactions between multiple bodies in space using the Wisdom-Holman symplectic integrator, an efficient method for long-term numerical simulations of planetary systems. It's designed to conserve the system's Hamiltonian over time, making it ideal for studying orbital dynamics.
+This project simulates the gravitational interactions between multiple bodies in space using the Wisdom-Holman symplectic integrator, an efficient method for long-term numerical simulations of planetary systems. It's designed to conserve the system's Hamiltonian over time, making it practical for studying orbital dynamics.
 
 ## Features
 
@@ -20,6 +20,7 @@ This project simulates the gravitational interactions between multiple bodies in
 - NumPy
 - Matplotlib
 - mpl_toolkits for 3D plotting
+- rebound (optional, only required for Test 3)
 
 ### Installation
 
