@@ -2,16 +2,20 @@
 
 Final Project for ASTR 5470: Wisdom-Holman N-body Symplectic Integrator
 
----
-
 This project simulates the gravitational interactions between multiple bodies in space using the Wisdom-Holman symplectic integrator, an efficient method for long-term numerical simulations of planetary systems. It's designed to conserve the system's Hamiltonian over time, making it practical for studying orbital dynamics.
+
+---
 
 ## Features
 
 - **Symplectic Integration**: Uses the Wisdom-Holman method to ensure better long-term energy conservation.
 - **3D Visualization**: Includes functionality to visualize the trajectories of celestial bodies in three dimensions.
 - **Energy and Angular Momentum Conservation Check**: Computes and plots total energy and angular momentum to verify their conservation over the simulation period.
+- **Close Encounter Detection**:
+- **General Relativity Modification**:
+- **Long Term Evolution Stability Check**:
 
+  
 ## Getting Started
 
 ### Prerequisites
