@@ -1,12 +1,8 @@
 # WH5470
-Final Project for ASTR 5470: Wisdom-Holman N-body Symplectic Integrator
-For your N-body simulation project using the Wisdom-Holman symplectic integrator, a well-structured README file is essential to guide users on how to use the software, what it does, and how to contribute or report issues. Here’s a template you can use and adapt according to your project’s specifics:
 
-### README Template for N-body Simulation with Wisdom-Holman Integrator
+Final Project for ASTR 5470: Wisdom-Holman N-body Symplectic Integrator
 
 ---
-
-# N-body Simulation Project
 
 This project simulates the gravitational interactions between multiple bodies in space using the Wisdom-Holman symplectic integrator, an efficient method for long-term numerical simulations of planetary systems. It's designed to conserve the system's Hamiltonian over time, making it ideal for studying orbital dynamics.
 
