@@ -31,7 +31,7 @@ This project simulates the gravitational interactions between multiple bodies in
 Clone this repository to your local machine using:
 
 ```bash
-[git clone https://github.com/ASTRX470/final-project-minliqiu.git]
+git clone https://github.com/ASTRX470/final-project-minliqiu.git
 ```
 ### Usage
 
